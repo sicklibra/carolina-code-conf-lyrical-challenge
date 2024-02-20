@@ -1,0 +1,5 @@
+Put a gun against his head, pulled my trigger, now he's dead
+while (gun.against(head)):
+  if (myTrigger.pull() == True):
+    alive=False
+  break
