@@ -1,0 +1,9 @@
+//If I'm not back again this time tomorrow
+//Carry on, carry on as if nothing really matters
+if(tomorrow.time().equals("now") && backAgain){
+  for (int i=2; i > 0; i--){
+    if(matters==false){
+      System.out.println("Carry on");
+      }
+    }
+  }
